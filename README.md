@@ -8,4 +8,18 @@
 SpaceToStudy project is a platform where experts in various fields share their knowledge and students can learn from the best. Here you can find the proper training course, find a tutor, or find students and receive feedback from them.
 
 ## My contribution:
-- 
+- Acted as a team leader. I worked on both the server and client side, distributed tasks, monitored code quality and team performance.
+
+Frontend:
+- Google service connection
+- email sending\confirmation functionality
+- secret token generation
+- Registration form + field validation
+- category\subject search and filtering functionality
+- modal window for content and for closing confirmation
+
+Backend:
+- Email service
+- Category API
+- Subject API
+- Swagger
