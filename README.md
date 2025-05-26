@@ -23,3 +23,17 @@ Backend:
 - Category API
 - Subject API
 - Swagger
+
+## Technology stack:
+Frontend:
+- React + TypeScript
+- Material UI (MUI)
+- Redux Toolkit
+- React Router
+- Vitest + Testing Library
+
+Backend:
+- Express.js
+- MongoDB + Mongoose
+- Swagger
+- Jest + Supertest
